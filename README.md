@@ -1,1 +1,1 @@
-# image captioning на WikiArt
+# image captioning on WikiArt
